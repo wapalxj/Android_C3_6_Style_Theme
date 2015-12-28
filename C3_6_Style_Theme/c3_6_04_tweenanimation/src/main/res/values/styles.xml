@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="alpha">
+        <item name="android:animation">@anim/alpha</item>
+    </style>
+    <style name="rotate">
+        <item name="android:animation">@anim/rotate</item>
+    </style>
+    <style name="dra">
+        <item name="android:animation">@anim/drawable</item>
+    </style>
+</resources>

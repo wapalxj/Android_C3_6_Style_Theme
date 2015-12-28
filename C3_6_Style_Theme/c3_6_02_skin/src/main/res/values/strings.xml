@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">C3_6_02_skin</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_skin_layout">Skin_layout</string>
+    <string name="title_activity_orientation">Orientation</string>
+</resources>

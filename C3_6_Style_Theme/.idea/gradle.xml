@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.4" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/c3_6_01_style_theme" />
+            <option value="$PROJECT_DIR$/c3_6_02_skin" />
+            <option value="$PROJECT_DIR$/c3_6_03_viewstub" />
+            <option value="$PROJECT_DIR$/c3_6_04_tweenanimation" />
+            <option value="$PROJECT_DIR$/c3_6_05_activity_animation" />
+            <option value="$PROJECT_DIR$/c3_6_06_drag" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.c3.vero.c3_6_01_style_theme" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:theme="@style/AppTheme"
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@style/bubbleTheme"
+            android:name=".StyleActivity"
+            android:label="bubbleTheme" >
+        </activity>
+        <activity
+            android:theme="@style/AppTheme"
+            android:name=".Putong_Activity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:theme="@style/blurTheme"
+            android:name=".Blur_activity"
+            android:label="blurTheme" >
+        </activity>
+    </application>
+
+</manifest>

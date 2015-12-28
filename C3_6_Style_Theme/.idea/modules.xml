@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/C3_6_Style_Theme.iml" filepath="$PROJECT_DIR$/C3_6_Style_Theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_6_01_style_theme/c3_6_01_style_theme.iml" filepath="$PROJECT_DIR$/c3_6_01_style_theme/c3_6_01_style_theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_6_02_skin/c3_6_02_skin.iml" filepath="$PROJECT_DIR$/c3_6_02_skin/c3_6_02_skin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_6_03_viewstub/c3_6_03_viewstub.iml" filepath="$PROJECT_DIR$/c3_6_03_viewstub/c3_6_03_viewstub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_6_04_tweenanimation/c3_6_04_tweenanimation.iml" filepath="$PROJECT_DIR$/c3_6_04_tweenanimation/c3_6_04_tweenanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_6_05_activity_animation/c3_6_05_activity_animation.iml" filepath="$PROJECT_DIR$/c3_6_05_activity_animation/c3_6_05_activity_animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_6_06_drag/c3_6_06_drag.iml" filepath="$PROJECT_DIR$/c3_6_06_drag/c3_6_06_drag.iml" />
+    </modules>
+  </component>
+</project>
