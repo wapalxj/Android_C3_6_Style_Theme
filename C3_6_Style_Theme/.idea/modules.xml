@@ -7,9 +7,11 @@
       <module fileurl="file://$PROJECT_DIR$/c3_6_01_style_theme/c3_6_01_style_theme.iml" filepath="$PROJECT_DIR$/c3_6_01_style_theme/c3_6_01_style_theme.iml" />
       <module fileurl="file://$PROJECT_DIR$/c3_6_02_skin/c3_6_02_skin.iml" filepath="$PROJECT_DIR$/c3_6_02_skin/c3_6_02_skin.iml" />
       <module fileurl="file://$PROJECT_DIR$/c3_6_03_viewstub/c3_6_03_viewstub.iml" filepath="$PROJECT_DIR$/c3_6_03_viewstub/c3_6_03_viewstub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_6_04_02_drawableanimation/c3_6_04_02_drawableanimation.iml" filepath="$PROJECT_DIR$/c3_6_04_02_drawableanimation/c3_6_04_02_drawableanimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/c3_6_04_tweenanimation/c3_6_04_tweenanimation.iml" filepath="$PROJECT_DIR$/c3_6_04_tweenanimation/c3_6_04_tweenanimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/c3_6_05_activity_animation/c3_6_05_activity_animation.iml" filepath="$PROJECT_DIR$/c3_6_05_activity_animation/c3_6_05_activity_animation.iml" />
       <module fileurl="file://$PROJECT_DIR$/c3_6_06_drag/c3_6_06_drag.iml" filepath="$PROJECT_DIR$/c3_6_06_drag/c3_6_06_drag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_6_07_property_animation/c3_6_07_property_animation.iml" filepath="$PROJECT_DIR$/c3_6_07_property_animation/c3_6_07_property_animation.iml" />
     </modules>
   </component>
 </project>

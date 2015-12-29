@@ -1,1 +1,1 @@
-include ':app', ':c3_6_01_style_theme', ':c3_6_02_skin', ':c3_6_03_viewstub', ':c3_6_04_tweenanimation', ':c3_6_05_activity_animation', ':c3_6_06_drag'
+include ':app', ':c3_6_01_style_theme', ':c3_6_02_skin', ':c3_6_03_viewstub', ':c3_6_04_tweenanimation', ':c3_6_05_activity_animation', ':c3_6_06_drag', ':c3_6_04_02_drawableanimation', ':c3_6_07_property_animation'
