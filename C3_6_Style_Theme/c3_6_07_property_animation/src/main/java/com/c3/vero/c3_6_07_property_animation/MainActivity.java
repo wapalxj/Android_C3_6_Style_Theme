@@ -23,21 +23,21 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
     @Override
     public void onClick(View v) {
-        switch (v.getId()){
-            case R.id.translate:
-                ;
-                break;
-            case R.id.translate:
-            ;
-                break;
-            case R.id.translate:
-            ;
-                break;
-            case R.id.translate:
-            ;
-                break;
-        }
-
+//        switch (v.getId()){
+//            case R.id.translate:
+//                ;
+//                break;
+//            case R.id.translate:
+//            ;
+//                break;
+//            case R.id.translate:
+//            ;
+//                break;
+//            case R.id.translate:
+//            ;
+//                break;
+//        }
+//
     }
     public void init() {
         iv=(ImageView)findViewById(R.id.iv);
