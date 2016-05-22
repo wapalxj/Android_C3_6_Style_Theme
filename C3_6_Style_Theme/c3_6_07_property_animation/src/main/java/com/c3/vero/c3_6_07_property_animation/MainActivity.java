@@ -24,24 +24,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
     @Override
     public void onClick(View v) {
-<<<<<<< HEAD
-//        switch (v.getId()){
-//            case R.id.translate:
-//                ;
-//                break;
-//            case R.id.translate:
-//            ;
-//                break;
-//            case R.id.translate:
-//            ;
-//                break;
-//            case R.id.translate:
-//            ;
-//                break;
-//        }
-//
-=======
-        switch (v.getId()){
+	switch (v.getId()){
             case R.id.translate:
                 ObjectAnimator translate=ObjectAnimator.ofFloat(iv, "translationX", 0, 300,0);
                 translate.setDuration(1000);
@@ -68,7 +51,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
         }
 
->>>>>>> ed2ced139ba5242ff49b07bbd29d36ce926bd8e2
     }
     public void init() {
         iv=(ImageView)findViewById(R.id.iv);

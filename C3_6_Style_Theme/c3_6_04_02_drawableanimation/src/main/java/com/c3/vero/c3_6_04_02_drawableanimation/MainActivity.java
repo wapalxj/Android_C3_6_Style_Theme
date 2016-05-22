@@ -14,14 +14,18 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         iv=(ImageView)findViewById(R.id.iv);
-        AnimationDrawable ad=new AnimationDrawable();
-//        ad.addFrame(getDrawable(R.drawable.start_075),200);
-        ad.addFrame(getDrawable(R.drawable.start_076),200);
-        ad.addFrame(getDrawable(R.drawable.start_077),200);
-        ad.addFrame(getDrawable(R.drawable.start_078),200);
-        ad.addFrame(getDrawable(R.drawable.start_079),200);
-        ad.addFrame(getDrawable(R.drawable.start_080),200);
-        iv.setBackground(ad);
+
+        //动态代码添加
+//        AnimationDrawable ad=new AnimationDrawable();
+//        ad.addFrame(getDrawable(R.drawable.start_076),200);
+//        ad.addFrame(getDrawable(R.drawable.start_077),200);
+//        ad.addFrame(getDrawable(R.drawable.start_078),200);
+//        ad.addFrame(getDrawable(R.drawable.start_079),200);
+//        ad.addFrame(getDrawable(R.drawable.start_080),200);
+//        iv.setBackground(ad);
+
+        //XML添加
+        iv.setBackgroundResource(R.drawable.logo);
         AnimationDrawable anima=(AnimationDrawable)iv.getBackground();
         anima.start();
     }
